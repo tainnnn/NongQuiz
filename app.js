@@ -5,7 +5,7 @@ const questions = [
         answer: 'JavaScript'
     },
     {
-        image: 'pic/java.png',
+        image: 'pic/Java.png',
         options: ['Java', 'J#', 'Jwift', 'Juby'],
         answer: 'Java'
     },
