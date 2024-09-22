@@ -26,7 +26,7 @@ const questions = [
     },
     {
         image: 'pic/mongodb.png',
-        options: ['MongoDB', 'MySQL', 'MostgreSQL', 'MQLite'],
+        options: ['MongoDB', 'MySQL', 'gretSQL', 'MQLite'],
         answer: 'MongoDB'
     },
     {
@@ -46,7 +46,7 @@ const questions = [
     },
     {
         image: 'pic/Bootstrap.png',
-        options: ['Bootstrap', 'Boundation', 'Bulma', 'Baterialize'],
+        options: ['Bootstrap', 'Bodation', 'Bulma', 'Balize'],
         answer: 'Bootstrap'
     },
     {
@@ -56,7 +56,7 @@ const questions = [
     },
     {
         image: 'pic/Swift.png',
-        options: ['Swift', 'Sava', 'Sotlin', 'SObjective-C'],
+        options: ['Swift', 'Sava', 'Sotlin', 'SObjec-C'],
         answer: 'Swift'
     },
     {
@@ -66,7 +66,7 @@ const questions = [
     },
     {
         image: 'pic/Firebase.png',
-        options: ['Firebase', 'FynamoDB', 'Fassandra', 'FouchDB'],
+        options: ['Firebase', 'namoDB', 'sandra', 'FouchDB'],
         answer: 'Firebase'
     },
     {
@@ -76,7 +76,7 @@ const questions = [
     },
     {
         image: 'pic/Kubernetes.png',
-        options: ['Kubernetes', 'Gocker', 'Gagrant', 'Gnsible'],
+        options: ['Kubernetes', 'Docker', 'grant', 'ship'],
         answer: 'Kubernetes'
     },
     {
@@ -86,12 +86,12 @@ const questions = [
     },
     {
         image: 'pic/Unit_Test.png',
-        options: ['Unit Test', 'Untegration Test', 'Uunctional Test', 'Uerformance Test'],
+        options: ['Unit Test', 'gration Test', 'tional Test', 'formance Test'],
         answer: 'Unit Test'
     },
     {
         image: 'pic/PotgressSQL.png',
-        options: ['Pgile', 'Paterfall', 'PotgressSQL', 'Panban'],
+        options: ['gile', 'Pater', 'PotgressSQL', 'Panda'],
         answer: 'PotgressSQL'
     },
     {
